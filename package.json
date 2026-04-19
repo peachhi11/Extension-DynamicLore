@@ -2,7 +2,6 @@
   "name": "extension-dynamiclore",
   "version": "1.0.0",
   "description": "SillyTavern extension for automatically updating World Info",
-  "main": "index.js",
   "scripts": {
     "build": "webpack --mode=production",
     "dev": "webpack --mode=development --watch"
